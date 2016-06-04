@@ -1,0 +1,9 @@
+
+# emacs files to ignore
+*~
+
+
+
+*.log
+*.jou
+*.str
