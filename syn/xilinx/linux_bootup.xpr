@@ -34,19 +34,35 @@
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
-        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hdl/linux_bootup_cpu.hwdef"/>
-        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hw_handoff/linux_bootup_cpu_bd.tcl"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="linux_bootup_cpu_ooc.xdc"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hdl/linux_bootup_cpu.vhd"/>
-        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_0/linux_bootup_cpu_auto_pc_0.xci"/>
-        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hw_handoff/linux_bootup_cpu.hwh"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_xbar_0/linux_bootup_cpu_xbar_0.xci"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_rst_processing_system7_0_100M_0/linux_bootup_cpu_rst_processing_system7_0_100M_0.xci"/>
-        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_processing_system7_0_0/linux_bootup_cpu_processing_system7_0_0.xci"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_processing_system7_0_axi_periph_0/linux_bootup_cpu_processing_system7_0_axi_periph_0.xci"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_leds_0/linux_bootup_cpu_leds_0.xci"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_buttons_0/linux_bootup_cpu_buttons_0.xci"/>
         <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_switches_0/linux_bootup_cpu_switches_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_processing_system7_0_0/linux_bootup_cpu_processing_system7_0_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hdl/linux_bootup_cpu.hwdef"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hw_handoff/linux_bootup_cpu_bd.tcl"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="hw_handoff/linux_bootup_cpu.hwh"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_3/linux_bootup_cpu_auto_pc_3.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_us_0/linux_bootup_cpu_auto_us_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_1/linux_bootup_cpu_auto_pc_1.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_tri_mode_ethernet_mac_0_0/linux_bootup_cpu_tri_mode_ethernet_mac_0_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_axi_dma_0_0/linux_bootup_cpu_axi_dma_0_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_4/linux_bootup_cpu_auto_pc_4.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_dma_axi2bram_0/linux_bootup_cpu_dma_axi2bram_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_dma_descriptors_0/linux_bootup_cpu_dma_descriptors_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_us_1/linux_bootup_cpu_auto_us_1.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_axi_mem_intercon_0/linux_bootup_cpu_axi_mem_intercon_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_xbar_2/linux_bootup_cpu_xbar_2.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_uP_axi2bram_0/linux_bootup_cpu_uP_axi2bram_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_0/linux_bootup_cpu_auto_pc_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_axi_mem_intercon_1_0/linux_bootup_cpu_axi_mem_intercon_1_0.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_2/linux_bootup_cpu_auto_pc_2.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_5/linux_bootup_cpu_auto_pc_5.xci"/>
+        <CompFileExtendedInfo CompFileName="linux_bootup_cpu.bd" FileRelPathName="ip/linux_bootup_cpu_auto_pc_6/linux_bootup_cpu_auto_pc_6.xci"/>
       </File>
       <File Path="$PPRDIR/../../rtl/vhdl/linux_bootup.vhd">
         <FileInfo>
